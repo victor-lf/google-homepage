@@ -5,7 +5,7 @@ The structure of the page, positioning and basic styling of elements were made b
 I separated the page in three sections:
 
 1. The `header`, which contains an unordered list for the links at the top
-2. A `div` of class "content", which contains the main elements (the logo image and a form element for the search box and buttons)
+2. The `main`, which contains the main elements (the logo image and a `form` element for the search box and buttons)
 3. The `footer`, which contains an unordered list for the links at the bottom
 
 To position the links of the header exactly as I wanted without much effort, I used **CSS Flexbox**.
