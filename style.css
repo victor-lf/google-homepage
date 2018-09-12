@@ -76,7 +76,7 @@ header a:hover, #apps:hover {
     background: -webkit-linear-gradient(top, #3c7ae4, #3f76d3);
 }
 
-.content {
+main {
     width: 600px;
     margin: 130px auto;  
 }
