@@ -1,7 +1,7 @@
 # google-homepage
 
 This is a clone of the Google homepage. 
-The structure of the page, positioning and basic styling of elements was made by myself. I just checked the original source code to fine tune the styling so that the page looks exactly like the original.
+The structure of the page, positioning and basic styling of elements were made by myself. I just checked the original source code to fine tune the styling so that the page looks exactly like the original. 
 I separated the page in three sections:
 
 1. The header, which contains an unordered list for the links on the top
