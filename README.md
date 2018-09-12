@@ -12,7 +12,7 @@ To position the links of the header exactly as I wanted without much effort, I u
 
 To center the buttons bellow the search box, I set the `text-align` property of its parent element (`<form>`) to `center`	. By the way, this solution is much more elegant than the solution used by someone at Google, who put the buttons between `<center>` tags. The `<center>` tag is not supported in HTML5.
 
-I used *descendant selectors*, *attribute selectors* and *structural pseudo-classes* (`:nth-child()`) to avoid filling the HTML with classes.
+I used **descendant selectors**, **attribute selectors** and **structural pseudo-classes** (`:nth-child()`) to avoid filling the HTML with classes.
 
 For the links in the footer, Google uses `font-size: small;`. This is not consistent across browsers (I tested on Chrome and Firefox). For consistency, I used `font-size: 13px;`. This is how Chrome interprets `small`. 
 
