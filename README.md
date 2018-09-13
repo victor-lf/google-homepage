@@ -10,7 +10,7 @@ I separated the page in three sections:
 
 To position the links of the header exactly as I wanted without much effort, I used **CSS Flexbox**.
 
-To center the buttons bellow the search box, I set the `text-align` property of its parent element (`form`) to `center`. By the way, this solution is much more elegant than the solution used by someone at Google, who put the buttons between `<center>` tags. The `<center>` tag is not supported in HTML5.
+To center the buttons bellow the search box, I set the `text-align` property of its parent element (`form`) to `center`. By the way, this solution is much more elegant than the solution used by someone at Google, who put the buttons between `<center>` tags. The `center` element is [not supported](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/center) in HTML5.
 
 I used **descendant selectors**, **attribute selectors** and **structural pseudo-classes** (`:nth-child()`) to avoid filling the HTML with classes.
 
