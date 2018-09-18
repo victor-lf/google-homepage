@@ -16,4 +16,6 @@ I used **descendant selectors**, **attribute selectors** and **structural pseudo
 
 For the links in the footer, Google uses `font-size: small;`. This is not consistent across browsers (I tested on Chrome and Firefox). For consistency, I used `font-size: 13px;`. This is how Chrome interprets `small`. 
 
+---
+
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css). 
