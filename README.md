@@ -1,6 +1,6 @@
 # google-homepage
 
-This is a clone of the Google search results page. The goal was to have something indistinguishable from the original for the keenest of eyes. To accomplish that, I would analyse the original source code to fine-tune the styling accordingly. (Is that a crime?)
+This is a clone of the Google search results page. The goal was to have something indistinguishable from the original for the keenest of eyes. To accomplish that, I would inspect the original source code to fine-tune the styling accordingly. (Is that a crime?)
 
 The page was divided into three sections:
 
